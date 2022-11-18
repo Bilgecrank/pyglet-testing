@@ -4,13 +4,13 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name, extra_message):
+def print_hi(name, extra_message, even_more_words):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}\n\n{extra_message}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {name}\n\n{extra_message}\n\n{even_more_words}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm', 'Do you like to party?')
+    print_hi('PyCharm', 'Do you like to party?', 'I like to party.')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
