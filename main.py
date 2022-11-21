@@ -11,6 +11,6 @@ def print_hi(name, extra_message, even_more_words):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm', 'Do you NOT like to party?', 'I do not like to party.')
+    print_hi('Buddy', 'Do you NOT like to party?', 'I do not like to party.')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
